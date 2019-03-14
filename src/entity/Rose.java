@@ -1,8 +1,10 @@
-package com.flower.kiev;
+package entity;
+
+import entity.Flower;
 
 public class Rose extends Flower {
 
-  Rose(){
+  public Rose(){
       super(100);
   }
 }

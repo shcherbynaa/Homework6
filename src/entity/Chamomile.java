@@ -1,8 +1,10 @@
-package com.flower.kiev;
+package entity;
+
+import entity.Flower;
 
 public class Chamomile extends Flower {
 
-  Chamomile(){
+  public Chamomile(){
       super(70);
   }
 }

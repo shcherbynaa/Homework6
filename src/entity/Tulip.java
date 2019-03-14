@@ -1,11 +1,8 @@
-package com.flower.kiev;
+package entity;
 
 public class Tulip extends Flower {
 
-    Tulip(){
+    public Tulip(){
         super(45);
     }
-
-
-
 }
