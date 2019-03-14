@@ -1,4 +1,4 @@
-package entity;
+package com.flower.kiev.entity;
 
 public class Tulip extends Flower {
 

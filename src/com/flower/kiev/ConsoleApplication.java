@@ -1,4 +1,6 @@
-package service;
+package com.flower.kiev;
+
+import com.flower.kiev.service.FlowerStore;
 
 import java.util.Arrays;
 

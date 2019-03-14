@@ -1,6 +1,4 @@
-package entity;
-
-import entity.Flower;
+package com.flower.kiev.entity;
 
 public class Rose extends Flower {
 

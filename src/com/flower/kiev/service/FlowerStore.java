@@ -1,9 +1,9 @@
-package service;
+package com.flower.kiev.service;
 
-import entity.Chamomile;
-import entity.Flower;
-import entity.Rose;
-import entity.Tulip;
+import com.flower.kiev.entity.Chamomile;
+import com.flower.kiev.entity.Flower;
+import com.flower.kiev.entity.Rose;
+import com.flower.kiev.entity.Tulip;
 
 public class FlowerStore {
 
